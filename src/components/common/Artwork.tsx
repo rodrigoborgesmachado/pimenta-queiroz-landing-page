@@ -1,0 +1,2 @@
+import { site } from '../../services/content'
+export function Artwork({ compact = false }: { compact?: boolean }) { return <div className={`artwork ${compact ? 'artwork-compact' : ''}`} aria-hidden="true"><div className="art-grid" /><div className="arch arch-back" /><div className="arch arch-front" /><div className="art-sun" /><div className="art-line" /><span className="art-monogram">{site.visual.monogram}<span>.</span></span><span className="art-coordinate">18Â°55â€² S &nbsp; 48Â°16â€² O</span></div> }

@@ -1,0 +1,73 @@
+{
+  "name": "Pimenta Queiroz Advogados Associados",
+  "brand": "Pimenta Queiroz",
+  "tagline": "Advogados Associados",
+  "location": "Uberlândia, Minas Gerais",
+  "domain": null,
+  "publicationApproved": false,
+  "logo": null,
+  "societyOab": null,
+  "contact": {
+    "address": null,
+    "phone": null,
+    "whatsapp": null,
+    "email": null,
+    "hours": null,
+    "mapEmbedUrl": null
+  },
+  "social": {
+    "instagram": null
+  },
+  "seo": {
+    "title": "Pimenta Queiroz | Advocacia para servidores públicos",
+    "description": "Direito Administrativo e questões funcionais de servidores públicos em Uberlândia, Minas Gerais. Conheça o Pimenta Queiroz Advogados Associados."
+  },
+  "pending": {
+    "note": "Valores null são placeholders: preencher apenas com informações oficiais e verificadas.",
+    "fields": [
+      "Domínio oficial",
+      "Logo",
+      "OAB da sociedade",
+      "Endereço",
+      "Telefone",
+      "WhatsApp",
+      "E-mail",
+      "Horários",
+      "Instagram",
+      "Mapa"
+    ]
+  },
+  "labels": {
+    "contact": "Fale com o escritório",
+    "whatsapp": "Falar pelo WhatsApp",
+    "copyright": "Todos os direitos reservados.",
+    "privacy": "Política de privacidade",
+    "contactEmpty": "Os canais de atendimento serão disponibilizados em breve.",
+    "contactIntro": "Um espaço para compreender a sua situação e conversar sobre os caminhos possíveis.",
+    "location": "Nossa localização",
+    "office": "Atendimento institucional",
+    "formTitle": "Conte a sua situação",
+    "name": "Nome",
+    "phone": "WhatsApp com DDD",
+    "message": "Mensagem",
+    "formNotice": "Ao continuar, a mensagem será aberta no WhatsApp. Você deverá enviá-la no aplicativo externo. Este formulário não armazena seus dados.",
+    "formUnavailable": "O formulário será habilitado assim que o canal de WhatsApp estiver disponível.",
+    "formSubmit": "Continuar no WhatsApp",
+    "formError": "Preencha seu nome, um WhatsApp válido com DDD e uma mensagem com pelo menos 10 caracteres.",
+    "notFoundTitle": "Página não encontrada",
+    "notFoundText": "O endereço pode ter mudado ou não estar disponível.",
+    "backHome": "Voltar ao início",
+    "skip": "Pular para o conteúdo",
+    "menu": "Abrir navegação",
+    "pendingTitle": "Conteúdo em preparação",
+    "pendingText": "Esta página aguarda revisão e aprovação antes de sua publicação.",
+    "readMore": "Saiba mais",
+    "reviewNotice": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso."
+  },
+  "visual": {
+    "monogram": "PQ",
+    "brandMark": "pq",
+    "locationLabel": "UBERLÂNDIA · MINAS GERAIS",
+    "provisional": true
+  }
+}

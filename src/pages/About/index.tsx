@@ -1,0 +1,7 @@
+import { Container } from 'react-bootstrap'
+import { office, team } from '../../services/content'
+import { Seo } from '../../components/common/Seo'
+import { PageIntro } from '../../components/common/PageIntro'
+import { TeamCard } from '../../components/common/Cards'
+import { Artwork } from '../../components/common/Artwork'
+export default function About() { const members = team.members.filter(m => m.enabled); return <><Seo {...office.seo} /><PageIntro title={office.title} description={office.summary} eyebrow={office.eyebrow} /><section className="section"><Container><div className="office-layout"><Artwork compact /><div className="prose"><span className="eyebrow">{office.eyebrow}</span><h2>{office.title}</h2><p>{office.summary}</p>{office.history.approved && <><h2>{office.history.title}</h2>{office.history.paragraphs.map((p, i) => <p key={i}>{p}</p>)}</>}{office.mission.approved && <><h2>{office.mission.title}</h2><p>{office.mission.text}</p></>}{office.vision.approved && <><h2>{office.vision.title}</h2><p>{office.vision.text}</p></>}</div></div>{office.valuesApproved && <div className="values-section"><h2>{office.valuesTitle}</h2><div className="content-grid">{office.values.map(value => <article key={value.title}><h3>{value.title}</h3><p>{value.description}</p></article>)}</div></div>}{team.enabled && members.length > 0 && <div className="values-section"><h2>{office.teamTitle}</h2><div className="content-grid">{members.map(member => <TeamCard key={member.id} member={member} />)}</div></div>}</Container></section></> }

@@ -1,0 +1,8 @@
+import { Link } from 'react-router-dom'
+import { Container } from 'react-bootstrap'
+import { site, navigation } from '../../services/content'
+import { safeUrl, whatsappLink } from '../../utils/links'
+import { Brand } from './Header'
+import { Icon } from '../common/Icon'
+export function Footer() { const instagram = safeUrl(site.social.instagram); return <footer className="site-footer"><Container><div className="footer-top"><div><Link to="/" aria-label={site.name}><Brand /></Link><p>{site.name}<br />{site.location}</p>{site.societyOab && <p>{site.societyOab}</p>}</div><nav aria-label="Navegação do rodapé">{navigation.filter(n => n.enabled).map(n => <Link key={n.to} to={n.to}>{n.label}</Link>)}</nav><div className="footer-contact">{site.contact.address && <p>{site.contact.address}</p>}{site.contact.phone && <a href={`tel:${String(site.contact.phone).replace(/[^+\d]/g, '')}`}>{site.contact.phone}</a>}{site.contact.email && <a href={`mailto:${site.contact.email}`}>{site.contact.email}</a>}{instagram && <a href={instagram} target="_blank" rel="noopener noreferrer">Instagram <Icon name="arrow" size={15} /></a>}</div></div><div className="footer-bottom"><span>© {new Date().getFullYear()} {site.brand}. {site.labels.copyright}</span><Link to="/politica-de-privacidade">{site.labels.privacy}</Link></div></Container></footer> }
+export function WhatsAppFloat() { const link = whatsappLink(site.contact.whatsapp); return link ? <a className="whatsapp-float" href={link} target="_blank" rel="noopener noreferrer" aria-label={site.labels.whatsapp}><Icon name="whatsapp" size={26} /></a> : null }

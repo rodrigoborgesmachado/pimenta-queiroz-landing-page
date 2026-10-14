@@ -1,0 +1,12 @@
+import { Routes, Route } from 'react-router-dom'
+import { Header } from './components/layout/Header'
+import { Footer, WhatsAppFloat } from './components/layout/Footer'
+import { useRouteScroll } from './hooks/useRouteScroll'
+import Home from './pages/Home'
+import About from './pages/About'
+import Contact from './pages/Contact'
+import Content, { ArticlePage } from './pages/Content'
+import PracticeArea from './pages/PracticeArea'
+import Privacy from './pages/Privacy'
+import NotFound from './pages/NotFound'
+export default function App() { useRouteScroll(); return <><Header /><main id="main" tabIndex={-1}><Routes><Route path="/" element={<Home />} /><Route path="/o-escritorio" element={<About />} /><Route path="/contato" element={<Contact />} /><Route path="/conteudo" element={<Content />} /><Route path="/conteudo/:slug" element={<ArticlePage />} /><Route path="/para-servidores/:slug" element={<PracticeArea />} /><Route path="/politica-de-privacidade" element={<Privacy />} /><Route path="*" element={<NotFound />} /></Routes></main><Footer /><WhatsAppFloat /></> }
