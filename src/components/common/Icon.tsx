@@ -1,3 +1,32 @@
-import { ArrowUpRight, ArrowRight, BookOpen, HeartPulse, Leaf, UsersRound, FileCheck2, FileText, ShieldCheck, MapPin, MessageCircle, MoveDown } from 'lucide-react'
-const icons = { education: BookOpen, health: HeartPulse, zoonoses: Leaf, people: UsersRound, exam: FileCheck2, document: FileText, shield: ShieldCheck, arrow: ArrowUpRight, right: ArrowRight, location: MapPin, whatsapp: MessageCircle, down: MoveDown }
-export function Icon({ name, size = 24 }: { name: string; size?: number }) { const Component = icons[name as keyof typeof icons] ?? FileText; return <Component size={size} strokeWidth={1.4} aria-hidden="true" /> }
+import {
+  ArrowUpRight,
+  ArrowRight,
+  BookOpen,
+  HeartPulse,
+  Leaf,
+  UsersRound,
+  FileCheck2,
+  FileText,
+  ShieldCheck,
+  MapPin,
+  MessageCircle,
+  MoveDown,
+} from 'lucide-react'
+const icons = {
+  education: BookOpen,
+  health: HeartPulse,
+  zoonoses: Leaf,
+  people: UsersRound,
+  exam: FileCheck2,
+  document: FileText,
+  shield: ShieldCheck,
+  arrow: ArrowUpRight,
+  right: ArrowRight,
+  location: MapPin,
+  whatsapp: MessageCircle,
+  down: MoveDown,
+}
+export function Icon({ name, size = 24 }: { name: string; size?: number }) {
+  const Component = icons[name as keyof typeof icons] ?? FileText
+  return <Component size={size} strokeWidth={1.4} aria-hidden="true" />
+}

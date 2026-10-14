@@ -9,4 +9,25 @@ import Content, { ArticlePage } from './pages/Content'
 import PracticeArea from './pages/PracticeArea'
 import Privacy from './pages/Privacy'
 import NotFound from './pages/NotFound'
-export default function App() { useRouteScroll(); return <><Header /><main id="main" tabIndex={-1}><Routes><Route path="/" element={<Home />} /><Route path="/o-escritorio" element={<About />} /><Route path="/contato" element={<Contact />} /><Route path="/conteudo" element={<Content />} /><Route path="/conteudo/:slug" element={<ArticlePage />} /><Route path="/para-servidores/:slug" element={<PracticeArea />} /><Route path="/politica-de-privacidade" element={<Privacy />} /><Route path="*" element={<NotFound />} /></Routes></main><Footer /><WhatsAppFloat /></> }
+export default function App() {
+  useRouteScroll()
+  return (
+    <>
+      <Header />
+      <main id="main" tabIndex={-1}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/o-escritorio" element={<About />} />
+          <Route path="/contato" element={<Contact />} />
+          <Route path="/conteudo" element={<Content />} />
+          <Route path="/conteudo/:slug" element={<ArticlePage />} />
+          <Route path="/para-servidores/:slug" element={<PracticeArea />} />
+          <Route path="/politica-de-privacidade" element={<Privacy />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </main>
+      <Footer />
+      <WhatsAppFloat />
+    </>
+  )
+}

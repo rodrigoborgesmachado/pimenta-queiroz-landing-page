@@ -34,16 +34,16 @@ O comando de build executa a verificação TypeScript, gera os assets e prerende
 
 Todos os JSONs são importados no build. Depois de editar, gere um novo build.
 
-| Arquivo | Uso |
-| --- | --- |
-| `site.json` | Nome, localização, contatos, redes, domínio, SEO global, identidade provisória e rótulos de interface. `null` indica informação pendente; não preencher com dados fictícios. |
-| `navigation.json` | Ordem, rótulos, destinos e `enabled` dos links. |
-| `home.json` | Textos, seções, públicos, passos e controles `enabled` da Home. |
-| `office.json` | Apresentação, foto, história, missão, visão, valores e aprovação editorial. |
-| `team.json` | Lista de profissionais reais e visibilidade da equipe. |
-| `practice-areas.json` | Cards, conteúdo estruturado, revisão, publicação e SEO das áreas. |
-| `articles.json` | Listagem, estado vazio e publicações. |
-| `privacy.json` | Política estruturada e estado de aprovação. |
+| Arquivo               | Uso                                                                                                                                                                          |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `site.json`           | Nome, localização, contatos, redes, domínio, SEO global, identidade provisória e rótulos de interface. `null` indica informação pendente; não preencher com dados fictícios. |
+| `navigation.json`     | Ordem, rótulos, destinos e `enabled` dos links.                                                                                                                              |
+| `home.json`           | Textos, seções, públicos, passos e controles `enabled` da Home.                                                                                                              |
+| `office.json`         | Apresentação, foto, história, missão, visão, valores e aprovação editorial.                                                                                                  |
+| `team.json`           | Lista de profissionais reais e visibilidade da equipe.                                                                                                                       |
+| `practice-areas.json` | Cards, conteúdo estruturado, revisão, publicação e SEO das áreas.                                                                                                            |
+| `articles.json`       | Listagem, estado vazio e publicações.                                                                                                                                        |
+| `privacy.json`        | Política estruturada e estado de aprovação.                                                                                                                                  |
 
 ### Adicionar um advogado
 

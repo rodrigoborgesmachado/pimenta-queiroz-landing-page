@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="#153B3A"/><text x="8" y="43" font-family="Georgia,serif" font-size="36" fill="#F7F5EF" letter-spacing="-4">pq</text><circle cx="52" cy="42" r="3" fill="#B6A165"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#153B3A" />
+  <text
+    x="8"
+    y="43"
+    font-family="Georgia,serif"
+    font-size="36"
+    fill="#F7F5EF"
+    letter-spacing="-4"
+  >
+    pq
+  </text>
+  <circle cx="52" cy="42" r="3" fill="#B6A165" />
+</svg>
