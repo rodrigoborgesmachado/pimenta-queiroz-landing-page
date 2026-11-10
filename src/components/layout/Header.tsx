@@ -3,17 +3,11 @@ import { Link, NavLink } from 'react-router-dom'
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap'
 import { site, navigation, visibleAreas } from '../../services/content'
 import { Icon } from '../common/Icon'
+import logo from '../../assets/images/Pimenta_Queiroz_Logo.svg'
 export function Brand() {
   return (
     <span className="brand">
-      <span className="brand-mark" aria-hidden="true">
-        {site.visual.brandMark}
-        <span>.</span>
-      </span>
-      <span>
-        <span className="brand-name">{site.brand}</span>
-        <span className="brand-sub">{site.tagline}</span>
-      </span>
+      <img className="brand-logo" src={logo} alt={site.name} width={1312} height={1199} />
     </span>
   )
 }

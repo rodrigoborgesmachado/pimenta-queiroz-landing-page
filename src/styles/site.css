@@ -112,6 +112,16 @@ main:focus {
   align-items: center;
   color: var(--petrol);
 }
+.brand-logo {
+  display: block;
+  width: auto;
+  height: 112px;
+  max-width: 100%;
+  object-fit: contain;
+}
+.site-footer .brand-logo {
+  height: 144px;
+}
 .brand-mark {
   font-family: var(--serif);
   font-size: 44px;
@@ -312,105 +322,51 @@ fieldset:disabled .button {
 }
 .hero-art {
   position: relative;
-  padding: 0 0 23px;
+  border: 1px solid #b6a16540;
+  background: linear-gradient(150deg, #254947, #143837 65%);
 }
 .artwork {
   height: 455px;
-  position: relative;
+  display: grid;
+  place-items: center;
+  padding: 32px;
   overflow: hidden;
   background: linear-gradient(150deg, #254947, #143837 65%);
   border: 1px solid #b6a16530;
 }
-.art-grid {
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(90deg, #b6a1650b 1px, transparent 1px),
-    linear-gradient(#b6a1650b 1px, transparent 1px);
-  background-size: 57px 57px;
+.hero-art .artwork {
+  height: 350px;
+  border: 0;
+  background: transparent;
 }
-.arch {
-  position: absolute;
-  border: 1px solid #b6a16577;
-  border-radius: 50% 50% 0 0;
-  width: 65%;
-  height: 98%;
-  bottom: -23%;
-  left: 15%;
-  transform: rotate(-14deg);
+.art-logo {
+  display: block;
+  width: min(100%, 310px);
+  height: 100%;
+  min-height: 0;
 }
-.arch-back {
-  left: 28%;
-  bottom: -14%;
-  transform: rotate(13deg);
-  border-color: #b6a16530;
-  background: linear-gradient(125deg, #b6a16508, transparent);
-}
-.arch-front {
-  box-shadow:
-    0 0 0 22px #b6a16506,
-    0 0 0 45px #b6a16505,
-    0 0 0 66px #b6a16504;
-}
-.art-sun {
-  position: absolute;
-  right: 13%;
-  top: 13%;
-  width: 67px;
-  height: 67px;
-  border-radius: 50%;
-  background: linear-gradient(120deg, #c9b778, #978550);
-  box-shadow: 0 0 60px #b6a16513;
-}
-.art-line {
-  position: absolute;
-  top: 51%;
-  left: -20%;
-  width: 140%;
-  height: 1px;
-  background: #b6a16555;
-  transform: rotate(-35deg);
-}
-.art-monogram {
-  position: absolute;
-  left: 25%;
-  top: 32%;
-  font-family: var(--serif);
-  font-size: 107px;
-  color: #eae3d5d9;
-  letter-spacing: -0.1em;
-}
-.art-monogram > span {
-  color: var(--gold);
-}
-.art-coordinate {
-  position: absolute;
-  left: 26px;
-  bottom: 24px;
-  color: #d3c79e99;
-  font-size: 8px;
-  letter-spacing: 0.2em;
+.artwork .art-logo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 .art-caption {
-  position: absolute;
-  right: -17px;
-  bottom: 0;
-  max-width: 270px;
-  padding: 23px 29px 20px;
-  background: var(--sand);
-  border-left: 3px solid var(--gold);
-  box-shadow: 0 12px 24px #071e1e26;
+  margin: 0 32px;
+  padding: 24px 0 28px;
+  border-top: 1px solid #b6a16540;
+  text-align: center;
 }
 .art-caption > span {
   font-size: 8px;
   letter-spacing: 0.17em;
-  color: #5b604e;
+  color: #d0bd86;
 }
 .art-caption p {
   font-family: var(--serif);
   font-size: 24px;
   line-height: 1.35;
-  color: var(--petrol);
+  color: var(--off-white);
   margin: 8px 0 0;
   letter-spacing: -0.02em;
 }
@@ -647,19 +603,6 @@ fieldset:disabled .button {
   height: 370px;
   background: linear-gradient(140deg, #ddd4bc, #eee8db);
   border: 0;
-}
-.artwork-compact .art-monogram {
-  color: var(--petrol);
-  font-size: 100px;
-}
-.artwork-compact .arch {
-  border-color: #9b895c99;
-}
-.artwork-compact .art-line {
-  background: #9b895c66;
-}
-.artwork-compact .art-coordinate {
-  color: #5c695a;
 }
 .office-copy p {
   font-size: 14px;
@@ -1000,13 +943,6 @@ fieldset:disabled .button {
   .artwork {
     height: 370px;
   }
-  .art-monogram {
-    font-size: 85px;
-  }
-  .art-caption {
-    right: -5px;
-    width: 235px;
-  }
   .art-caption p {
     font-size: 22px;
   }
@@ -1066,6 +1002,9 @@ fieldset:disabled .button {
   }
 }
 @media (max-width: 767px) {
+  .brand-logo {
+    height: 88px;
+  }
   .container {
     padding-left: 24px;
     padding-right: 24px;
@@ -1110,15 +1049,6 @@ fieldset:disabled .button {
   }
   .hero-art .artwork {
     height: 320px;
-  }
-  .art-monogram {
-    top: 28%;
-    font-size: 90px;
-  }
-  .art-caption {
-    width: 220px;
-    right: -7px;
-    padding: 18px 23px;
   }
   .art-caption p {
     font-size: 21px;
@@ -1294,9 +1224,6 @@ fieldset:disabled .button {
   }
   .hero-copy .eyebrow {
     letter-spacing: 0.14em;
-  }
-  .art-caption {
-    max-width: 215px;
   }
   .audience-item {
     gap: 10px;
