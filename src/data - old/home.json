@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "enabled": true,
+    "eyebrow": "DIREITO ADMINISTRATIVO · UBERLÂNDIA, MG",
+    "title": "Advocacia para servidores públicos em Uberlândia",
+    "description": "Direito Administrativo e questões funcionais de quem trabalha no serviço público.",
+    "button": "Conhecer o escritório",
+    "footnote": "Clareza para compreender. Responsabilidade para orientar.",
+    "artLabel": "A vida pública merece um olhar atento.",
+    "artCaption": "TÉCNICA, CLAREZA E RESPEITO",
+    "image": null,
+    "imageAlt": null
+  },
+  "audience": {
+    "enabled": true,
+    "eyebrow": "PARA QUEM ATUAMOS",
+    "title": "Ao lado de quem serve à sociedade.",
+    "items": [
+      {
+        "title": "Educação",
+        "icon": "education",
+        "enabled": true
+      },
+      {
+        "title": "Saúde",
+        "icon": "health",
+        "enabled": true
+      },
+      {
+        "title": "Zoonoses",
+        "icon": "zoonoses",
+        "enabled": true
+      },
+      {
+        "title": "Servidores em geral",
+        "icon": "people",
+        "enabled": true
+      },
+      {
+        "title": "Candidatos de concursos",
+        "icon": "exam",
+        "enabled": true
+      }
+    ]
+  },
+  "areas": {
+    "enabled": true,
+    "eyebrow": "ÁREAS DE ATUAÇÃO",
+    "title": "Sua vida funcional,\ncom atenção a cada detalhe.",
+    "description": "Questões do serviço público que merecem uma análise cuidadosa da legislação e da sua trajetória.",
+    "featured": "EM DESTAQUE · EDUCAÇÃO",
+    "draft": "Análise individualizada"
+  },
+  "steps": {
+    "enabled": true,
+    "eyebrow": "COMO FUNCIONA O ATENDIMENTO",
+    "title": "Primeiro, ouvir.\nDepois, orientar.",
+    "description": "Um atendimento pautado pela escuta, pela análise técnica e pela clareza.",
+    "items": [
+      {
+        "title": "Você conta a sua situação.",
+        "description": "O ponto de partida é compreender o que você está vivendo no serviço público."
+      },
+      {
+        "title": "Analisamos os documentos.",
+        "description": "Analisamos a legislação e os seus documentos funcionais."
+      },
+      {
+        "title": "Explicamos os caminhos.",
+        "description": "Apresentamos os caminhos possíveis, com clareza e atenção às particularidades do caso."
+      }
+    ]
+  },
+  "office": {
+    "enabled": true,
+    "button": "Conhecer nossa história"
+  },
+  "articles": {
+    "enabled": true,
+    "eyebrow": "CONTEÚDO",
+    "title": "Informação para compreender.",
+    "button": "Ver todos os conteúdos"
+  },
+  "contact": {
+    "enabled": true,
+    "eyebrow": "VAMOS CONVERSAR",
+    "title": "Cada situação começa\ncom uma boa conversa.",
+    "button": "Informações de contato"
+  }
+}

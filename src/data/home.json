@@ -40,6 +40,11 @@
         "title": "Candidatos de concursos",
         "icon": "exam",
         "enabled": true
+      },
+      {
+        "title": "Aposentados e pensionistas",
+        "icon": "people",
+        "enabled": true
       }
     ]
   },
@@ -63,11 +68,15 @@
       },
       {
         "title": "Analisamos os documentos.",
-        "description": "Analisamos a legislação e os seus documentos funcionais."
+        "description": "Lemos a legislação aplicável e os seus documentos funcionais, com cuidado e sigilo."
       },
       {
         "title": "Explicamos os caminhos.",
         "description": "Apresentamos os caminhos possíveis, com clareza e atenção às particularidades do caso."
+      },
+      {
+        "title": "Você decide com informação.",
+        "description": "A decisão é sua, tomada com clareza sobre as possibilidades e os limites de cada caminho."
       }
     ]
   },

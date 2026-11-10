@@ -1,0 +1,52 @@
+{
+  "eyebrow": "O ESCRITÓRIO",
+  "title": "Técnica e clareza.\nDe pessoas para pessoas.",
+  "summary": "O Pimenta Queiroz Advogados Associados atua em Direito Administrativo e questões funcionais de servidores públicos, em Uberlândia, Minas Gerais.",
+  "image": null,
+  "imageAlt": null,
+  "history": {
+    "title": "Nossa história",
+    "approved": false,
+    "paragraphs": [],
+    "pending": "História e fundação aguardam informações oficiais do escritório."
+  },
+  "mission": {
+    "title": "Missão",
+    "approved": false,
+    "text": "Tornar compreensível a vida funcional de quem trabalha no serviço público, oferecendo análise técnica e orientação clara sobre os caminhos possíveis em cada situação."
+  },
+  "vision": {
+    "title": "Visão",
+    "approved": false,
+    "text": "Ser o escritório que servidores públicos de Uberlândia e do Triângulo Mineiro procuram quando precisam entender sua situação funcional."
+  },
+  "valuesTitle": "Valores que orientam o atendimento",
+  "valuesApproved": false,
+  "values": [
+    {
+      "title": "Clareza",
+      "description": "Comunicar as informações de forma compreensível."
+    },
+    {
+      "title": "Responsabilidade técnica",
+      "description": "Analisar cada situação com cuidado e fundamentação."
+    },
+    {
+      "title": "Respeito pelo serviço público",
+      "description": "Reconhecer a relevância de quem trabalha a serviço da sociedade."
+    },
+    {
+      "title": "Discrição",
+      "description": "Tratar cada situação com reserva e respeito."
+    },
+    {
+      "title": "Franqueza",
+      "description": "Explicar possibilidades e limitações com transparência."
+    }
+  ],
+  "teamTitle": "Nossa equipe",
+  "seo": {
+    "title": "O escritório | Pimenta Queiroz",
+    "description": "Conheça a atuação institucional do Pimenta Queiroz Advogados Associados em Uberlândia."
+  }
+}

@@ -7,16 +7,17 @@
   "publicationApproved": false,
   "logo": null,
   "societyOab": null,
+  "cnpj": "53.710.479/0001-16",
   "contact": {
     "address": "Av. Segismundo Pereira, 1001 - Sl 6 - Santa Mônica, Uberlândia - MG, 38408-170",
     "phone": "(34) 99129-7012",
     "whatsapp": "+5534991297012",
-    "email": "legal@contabilidadefemar.com.br",
-    "hours": "Segunda a sexta das 8 horas às 18 horas",
-    "mapEmbedUrl": ""
+    "email": "advocaciapimentaqueiroz@gmail.com",
+    "hours": "Segunda a sexta, das 8h às 18h. Atendimento presencial e on-line, com agendamento prévio.",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Av.%20Segismundo%20Pereira%2C%201001%2C%20Santa%20M%C3%B4nica%2C%20Uberl%C3%A2ndia%20-%20MG%2C%2038408-170&output=embed"
   },
   "social": {
-    "instagram": null
+    "instagram": "https://www.instagram.com/adv.pimentaqueiroz/"
   },
   "seo": {
     "title": "Pimenta Queiroz | Advocacia para servidores públicos",
@@ -25,16 +26,9 @@
   "pending": {
     "note": "Valores null são placeholders: preencher apenas com informações oficiais e verificadas.",
     "fields": [
-      "Domínio oficial",
+      "Domínio oficial (pimentaqueiroz.adv.br, a registrar)",
       "Logo",
-      "OAB da sociedade",
-      "Endereço",
-      "Telefone",
-      "WhatsApp",
-      "E-mail",
-      "Horários",
-      "Instagram",
-      "Mapa"
+      "Registro da sociedade na OAB/MG"
     ]
   },
   "labels": {

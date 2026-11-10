@@ -10,7 +10,7 @@
     "published": false,
     "reviewed": false,
     "featured": true,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "O terço constitucional de férias é o acréscimo de, pelo menos, um terço sobre a remuneração das férias. Ele está previsto na Constituição (art. 7º, XVII) e vale também para os servidores públicos (art. 39, § 3º). No magistério, a rotina do calendário escolar, com férias e recesso, costuma gerar dúvidas sobre como esse adicional é calculado e pago. Esta página reúne as informações gerais para você entender melhor o tema.",
     "blocks": [],
     "plannedSections": [
       "O que é o terço constitucional de férias",
@@ -23,113 +23,294 @@
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Terço de férias e recesso escolar | Pimenta Queiroz",
-      "description": "Terço constitucional de férias e recesso escolar para professores."
+      "title": "Terço de férias do professor e recesso escolar | Pimenta Queiroz",
+      "description": "Entenda o terço constitucional de férias do professor e a diferença entre férias e recesso escolar. Informações para servidores de Uberlândia/MG."
     }
   },
   {
     "id": "2",
     "slug": "licenca-tratamento-saude",
     "title": "Licença para tratamento de saúde",
-    "pageTitle": "Licença para tratamento de saúde",
-    "summary": "Questões funcionais relacionadas ao afastamento para cuidar da saúde.",
+    "pageTitle": "Licença para tratamento de saúde do servidor público: entenda como funciona",
+    "summary": "Afastamento do servidor para tratar a própria saúde: pedido, perícia médica e reflexos na carreira.",
     "icon": "health",
     "enabled": true,
     "published": false,
     "reviewed": false,
     "featured": false,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "Quando um problema de saúde impede o trabalho, o servidor pode precisar se afastar. O pedido de licença, a perícia médica, a duração do afastamento e os reflexos na remuneração e na carreira seguem as regras do estatuto de cada ente público. Esta página explica as etapas mais comuns e ajuda você a entender, com calma, o que observar.",
     "blocks": [],
-    "plannedSections": [],
+    "plannedSections": [
+      "Para quem esta página foi feita: servidores públicos estatutários",
+      "O que é a licença para tratamento de saúde",
+      "Como costuma funcionar o pedido e a perícia médica",
+      "Licença negada ou encerrada antes do esperado: o que observar",
+      "Reflexos na remuneração, nas férias e na carreira",
+      "Quando o afastamento se prolonga: readaptação e aposentadoria por incapacidade",
+      "Documentos que ajudam a analisar a situação",
+      "Perguntas frequentes"
+    ],
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Licença para tratamento de saúde | Pimenta Queiroz",
-      "description": "Questões funcionais relacionadas ao afastamento para cuidar da saúde."
+      "title": "Licença para tratamento de saúde do servidor | Pimenta Queiroz",
+      "description": "Pedido, perícia médica, licença negada e reflexos na carreira: entenda a licença para tratamento de saúde do servidor público em Uberlândia/MG."
     }
   },
   {
     "id": "3",
     "slug": "defesa-pad",
     "title": "Processo administrativo disciplinar",
-    "pageTitle": "Processo administrativo disciplinar",
-    "summary": "Defesa e acompanhamento em processo administrativo disciplinar (PAD).",
+    "pageTitle": "Processo administrativo disciplinar (PAD): como funciona a defesa do servidor",
+    "summary": "Defesa e acompanhamento em processo administrativo disciplinar (PAD) e sindicância.",
     "icon": "document",
     "enabled": true,
     "published": false,
     "reviewed": false,
     "featured": false,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "O processo administrativo disciplinar (PAD) é o procedimento usado pela Administração para apurar uma possível falta funcional. Em todas as fases, o servidor tem direito ao contraditório e à ampla defesa, garantidos pela Constituição (art. 5º, LV). Entender cada etapa, da instauração ao julgamento, ajuda a acompanhar o processo com serenidade.",
     "blocks": [],
-    "plannedSections": [],
+    "plannedSections": [
+      "O que é um PAD e quando ele é instaurado",
+      "Sindicância e PAD: qual a diferença",
+      "As fases do processo",
+      "Direito de defesa: o que a lei assegura ao servidor",
+      "Afastamento preventivo durante o processo",
+      "Penalidades possíveis e prescrição",
+      "Documentos e prazos que merecem atenção",
+      "Perguntas frequentes"
+    ],
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Processo administrativo disciplinar | Pimenta Queiroz",
-      "description": "Defesa e acompanhamento em processo administrativo disciplinar (PAD)."
+      "title": "Advogado para PAD em Uberlândia | Pimenta Queiroz",
+      "description": "Entenda as fases do processo administrativo disciplinar (PAD) e os direitos de defesa do servidor público. Atendimento em Uberlândia/MG."
     }
   },
   {
     "id": "4",
-    "slug": "adicional-insalubridade",
-    "title": "Adicional de insalubridade",
-    "pageTitle": "Adicional de insalubridade",
-    "summary": "Análise das condições de trabalho e da legislação aplicável.",
+    "slug": "insalubridade-periculosidade",
+    "title": "Insalubridade e periculosidade",
+    "pageTitle": "Adicional de insalubridade e periculosidade do servidor público",
+    "summary": "Adicionais pelo trabalho com agentes nocivos ou em atividades de risco, base de cálculo e laudos técnicos.",
     "icon": "shield",
     "enabled": true,
     "published": false,
     "reviewed": false,
     "featured": false,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "Os adicionais de insalubridade e de periculosidade estão ligados às condições em que o trabalho é feito: exposição a agentes nocivos à saúde, no primeiro caso, ou a atividades de risco, no segundo. No serviço público, o direito, o percentual e a base de cálculo dependem da lei de cada ente e, em geral, de avaliação técnica das condições de trabalho. Profissionais da saúde, das zoonoses e servidores que trabalham com motocicleta estão entre os que mais têm dúvidas sobre o tema.",
     "blocks": [],
-    "plannedSections": [],
+    "plannedSections": [
+      "Insalubridade e periculosidade: qual a diferença",
+      "Quem costuma ter direito no serviço público",
+      "Base de cálculo do adicional: pontos que merecem atenção",
+      "Periculosidade para quem trabalha com motocicleta",
+      "Laudos técnicos: LTCAT e PPP",
+      "Adicionais e aposentadoria especial",
+      "Perguntas frequentes"
+    ],
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Adicional de insalubridade | Pimenta Queiroz",
-      "description": "Análise das condições de trabalho e da legislação aplicável."
+      "title": "Insalubridade e periculosidade do servidor | Pimenta Queiroz",
+      "description": "Adicional de insalubridade e periculosidade do servidor público: base de cálculo, laudos (LTCAT e PPP) e atividades de risco. Uberlândia/MG."
     }
   },
   {
     "id": "5",
     "slug": "desvio-funcao",
     "title": "Desvio de função",
-    "pageTitle": "Desvio de função",
+    "pageTitle": "Desvio de função do servidor público: o que caracteriza e o que observar",
     "summary": "Questões sobre as atribuições do cargo e as atividades exercidas.",
     "icon": "people",
     "enabled": true,
     "published": false,
     "reviewed": false,
     "featured": false,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "Há desvio de função quando o servidor exerce, de forma habitual, atribuições diferentes das previstas para o cargo em que foi nomeado. A comparação entre a lei que descreve o cargo e a rotina real de trabalho é o ponto de partida para compreender a situação.",
     "blocks": [],
-    "plannedSections": [],
+    "plannedSections": [
+      "O que caracteriza o desvio de função",
+      "Desvio de função e mudança de cargo: por que não são a mesma coisa",
+      "Como comparar as atribuições do cargo com a rotina de trabalho",
+      "Provas e documentos que ajudam",
+      "Perguntas frequentes"
+    ],
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Desvio de função | Pimenta Queiroz",
-      "description": "Questões sobre as atribuições do cargo e as atividades exercidas."
+      "title": "Desvio de função do servidor público | Pimenta Queiroz",
+      "description": "Entenda o que caracteriza o desvio de função no serviço público e como comparar as atribuições do cargo com a rotina de trabalho. Uberlândia/MG."
     }
   },
   {
     "id": "6",
     "slug": "concursos-publicos",
     "title": "Concursos públicos e editais",
-    "pageTitle": "Concursos públicos e editais",
-    "summary": "Análise de editais e questões relativas às etapas dos concursos.",
+    "pageTitle": "Concursos públicos: editais, recursos e correção de provas",
+    "summary": "Análise de editais, recursos administrativos e mandado de segurança nas etapas do concurso.",
     "icon": "exam",
     "enabled": true,
     "published": false,
     "reviewed": false,
     "featured": false,
-    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "introduction": "Editais de concurso público precisam respeitar a lei, os princípios da Administração e as regras que eles próprios estabelecem. Dúvidas sobre requisitos, etapas, correção de provas, recursos e nomeação podem ser analisadas a partir do edital e dos documentos do candidato. Em alguns casos, a via judicial, como o mandado de segurança, é uma das possibilidades a avaliar, sempre dentro dos limites que os tribunais fixaram para a revisão de atos da banca.",
     "blocks": [],
-    "plannedSections": [],
+    "plannedSections": [
+      "O edital como regra do concurso",
+      "Requisitos, etapas e eliminação",
+      "Recurso administrativo contra a correção da prova",
+      "Mandado de segurança e correção de nota: o que o Judiciário pode e não pode revisar",
+      "Aprovação, classificação e nomeação",
+      "Perguntas frequentes"
+    ],
     "faq": [],
     "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
     "seo": {
-      "title": "Concursos públicos e editais | Pimenta Queiroz",
-      "description": "Análise de editais e questões relativas às etapas dos concursos."
+      "title": "Concurso público: edital, recursos e correção | Pimenta Queiroz",
+      "description": "Edital, recursos, correção de prova e mandado de segurança em concurso público: entenda o que pode ser revisto. Pimenta Queiroz, Uberlândia/MG."
+    }
+  },
+  {
+    "id": "7",
+    "slug": "piso-magisterio",
+    "title": "Piso salarial do magistério",
+    "pageTitle": "Piso salarial do magistério: como funciona para professores",
+    "summary": "Piso nacional do magistério, carreira, jornada e contratos temporários.",
+    "icon": "education",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "A Lei 11.738/2008 instituiu o piso salarial profissional nacional do magistério público da educação básica, atualizado todos os anos. A forma como o piso se aplica à carreira, à jornada e aos contratos temporários gera dúvidas frequentes entre professores, especialmente na educação infantil.",
+    "blocks": [],
+    "plannedSections": [
+      "O que é o piso salarial nacional do magistério",
+      "Como o piso é atualizado a cada ano",
+      "Piso, carreira e jornada",
+      "Professores temporários e o piso",
+      "Educação infantil: pontos que merecem atenção",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Piso salarial do magistério | Pimenta Queiroz",
+      "description": "Entenda o piso nacional do magistério, a atualização anual e como ele se aplica à carreira, à jornada e aos professores temporários. Uberlândia/MG."
+    }
+  },
+  {
+    "id": "8",
+    "slug": "progressoes-funcionais",
+    "title": "Progressões e licença para estudar",
+    "pageTitle": "Progressões funcionais e licença para cursar mestrado ou doutorado",
+    "summary": "Progressão, promoção, titulação e licença para cursar mestrado ou doutorado.",
+    "icon": "document",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "O plano de carreira define como o servidor avança: por tempo de serviço, por avaliação de desempenho, por titulação ou por outros critérios previstos em lei. Quando uma progressão não é concedida ou demora a ser analisada, a leitura da lei do plano de carreira e da ficha funcional é o ponto de partida para entender a situação. O mesmo vale para a licença ou o afastamento para cursar mestrado e doutorado: os requisitos estão no estatuto de cada ente, e uma negativa sem fundamento pode ser questionada, inclusive por mandado de segurança, conforme o caso.",
+    "blocks": [],
+    "plannedSections": [
+      "Progressão e promoção: qual a diferença",
+      "Requisitos mais comuns nos planos de carreira",
+      "Titulação: especialização, mestrado e doutorado",
+      "Progressão negada ou sem resposta: o que observar",
+      "Licença para cursar mestrado ou doutorado: requisitos comuns",
+      "Licença negada: o mandado de segurança como possibilidade",
+      "Documentos que ajudam a analisar a situação",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Progressão e licença para mestrado | Pimenta Queiroz",
+      "description": "Progressão funcional e licença para cursar mestrado ou doutorado: requisitos, pedidos negados e mandado de segurança. Uberlândia/MG."
+    }
+  },
+  {
+    "id": "9",
+    "slug": "reducao-jornada-servidor-pcd",
+    "title": "Redução de jornada (pessoa com deficiência)",
+    "pageTitle": "Redução de jornada para servidor com deficiência ou com dependente com deficiência",
+    "summary": "Horário especial para servidor com deficiência ou responsável por dependente com deficiência.",
+    "icon": "people",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "Servidores com deficiência e servidores responsáveis por cônjuge, filho ou dependente com deficiência podem precisar de um horário especial para conciliar o trabalho com tratamentos, terapias e cuidados. O tema é tratado pela legislação e pelos tribunais, e o pedido costuma depender de documentos médicos e, em alguns entes, de perícia. Conhecer as regras ajuda a fazer o pedido com mais segurança.",
+    "blocks": [],
+    "plannedSections": [
+      "Quem pode pedir o horário especial",
+      "Redução de jornada e compensação de horário",
+      "Servidores municipais e estaduais: o que os tribunais decidiram",
+      "Documentos e perícia",
+      "Pedido negado: o que observar",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Redução de jornada do servidor com deficiência | Pimenta Queiroz",
+      "description": "Horário especial para servidor com deficiência ou responsável por dependente com deficiência: quem pode pedir, documentos e perícia. Uberlândia/MG."
+    }
+  },
+  {
+    "id": "10",
+    "slug": "aposentadoria-especial-servidor",
+    "title": "Aposentadoria especial",
+    "pageTitle": "Aposentadoria especial do servidor público: atividades de risco e agentes nocivos",
+    "summary": "Aposentadoria especial, contagem de tempo especial e documentos como LTCAT e PPP.",
+    "icon": "shield",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "A aposentadoria especial considera o trabalho exposto a agentes nocivos à saúde ou em atividades de risco. Para o servidor público, as regras mudaram com a Reforma da Previdência (Emenda Constitucional 103/2019) e dependem também da legislação de cada ente. Documentos como o LTCAT e o PPP costumam ser essenciais para comprovar as condições de trabalho.",
+    "blocks": [],
+    "plannedSections": [
+      "Quem pode ter direito à aposentadoria especial",
+      "O que mudou com a Reforma da Previdência",
+      "LTCAT e PPP: o que são e como pedir à Administração",
+      "Tempo especial e averbação",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Aposentadoria especial do servidor público | Pimenta Queiroz",
+      "description": "Aposentadoria especial do servidor: agentes nocivos, atividades de risco, LTCAT, PPP e o que mudou com a Reforma da Previdência. Uberlândia/MG."
+    }
+  },
+  {
+    "id": "11",
+    "slug": "ferias-premio-exoneracao",
+    "title": "Férias-prêmio e licença-prêmio não gozadas",
+    "pageTitle": "Férias-prêmio e licença-prêmio não gozadas: o que acontece na exoneração ou na aposentadoria",
+    "summary": "Indenização de férias-prêmio, licença-prêmio e outros períodos não usufruídos ao deixar o cargo, para servidores estaduais e municipais.",
+    "icon": "document",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "Quando o servidor deixa o cargo, por exoneração ou aposentadoria, podem ficar para trás períodos de férias-prêmio ou de licença que não foram usufruídos. Os tribunais têm analisado a conversão desses períodos em indenização, para evitar o enriquecimento sem causa da Administração. O nome do direito e as regras mudam conforme o ente: servidores do Estado de Minas Gerais e servidores municipais seguem leis diferentes. A resposta depende dessa lei e da situação funcional de cada servidor.",
+    "blocks": [],
+    "plannedSections": [
+      "O que são as férias-prêmio e a licença-prêmio",
+      "Servidor estadual de Minas Gerais e servidor municipal: o que muda",
+      "Exoneração e aposentadoria: o que acontece com os períodos não usufruídos",
+      "O que os tribunais decidiram sobre a conversão em indenização",
+      "Prazo para pedir",
+      "Documentos que ajudam a analisar a situação",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Férias-prêmio não gozadas na exoneração | Pimenta Queiroz",
+      "description": "Férias-prêmio e licença-prêmio não usufruídas na exoneração ou aposentadoria: conversão em indenização para servidores de MG e de Uberlândia."
     }
   }
 ]

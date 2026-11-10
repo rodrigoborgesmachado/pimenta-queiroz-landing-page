@@ -1,5 +1,54 @@
 {
   "enabled": true,
-  "members": [],
-  "pending": "Cadastrar nomes reais, OAB, formação, áreas, biografia, fotos autorizadas e enabled."
+  "members": [
+    {
+      "id": "laura-rodrigues-pimenta",
+      "name": "Laura Rodrigues Pimenta",
+      "role": "Sócia",
+      "oab": "OAB/MG 228.642",
+      "education": null,
+      "areas": ["Direito dos Servidores Públicos", "Direito Administrativo"],
+      "bio": "Sócia fundadora. Atuou na assessoria jurídica do sindicato dos servidores municipais de Uberlândia, onde acompanhou de perto a rotina e as questões funcionais de quem trabalha no serviço público.",
+      "photo": null,
+      "photoAlt": "Laura Rodrigues Pimenta, sócia do Pimenta Queiroz Advogados Associados",
+      "enabled": true
+    },
+    {
+      "id": "gabriela-rodrigues-queiroz-paniago",
+      "name": "Gabriela Rodrigues Queiroz Paniago",
+      "role": "Sócia",
+      "oab": "OAB/MG 221.227",
+      "education": null,
+      "areas": ["Direito dos Servidores Públicos", "Direito Administrativo"],
+      "bio": "Sócia fundadora. Atuou na assessoria jurídica do sindicato dos servidores municipais de Uberlândia, onde acompanhou de perto a rotina e as questões funcionais de quem trabalha no serviço público.",
+      "photo": null,
+      "photoAlt": "Gabriela Rodrigues Queiroz Paniago, sócia do Pimenta Queiroz Advogados Associados",
+      "enabled": true
+    },
+    {
+      "id": "adriel-santos-rezende",
+      "name": "Adriel Santos Rezende",
+      "role": "Sócio",
+      "oab": "OAB/MG 216.372",
+      "education": null,
+      "areas": ["Direito dos Servidores Públicos", "Direito Administrativo"],
+      "bio": "Sócio. Atua nas questões funcionais de servidores públicos e na produção de conteúdo informativo do escritório sobre a vida funcional no serviço público.",
+      "photo": null,
+      "photoAlt": "Adriel Santos Rezende, sócio do Pimenta Queiroz Advogados Associados",
+      "enabled": true
+    },
+    {
+      "id": "marcus-tadeu-cortes-falavigna",
+      "name": "Marcus Tadeu Cortes Falavigna",
+      "role": "Advogado parceiro",
+      "oab": "OAB/MG 221.768",
+      "education": null,
+      "areas": ["Direito Civil", "Cobranças"],
+      "bio": "Advogado parceiro do escritório, responsável pela área cível e de cobranças.",
+      "photo": null,
+      "photoAlt": "Marcus Tadeu Cortes Falavigna, advogado parceiro do Pimenta Queiroz Advogados Associados",
+      "enabled": true
+    }
+  ],
+  "pending": "Confirmar biografias e acrescentar formação (graduação e pós) e fotos autorizadas."
 }

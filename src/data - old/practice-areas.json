@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "slug": "terco-ferias-recesso-escolar",
+    "title": "Terço de férias e recesso escolar",
+    "pageTitle": "Terço de férias e recesso escolar de professores: entenda como funciona",
+    "summary": "Terço constitucional de férias e recesso escolar para professores.",
+    "icon": "education",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": true,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [
+      "O que é o terço constitucional de férias",
+      "Férias e recesso escolar: por que não são a mesma coisa",
+      "O que o estatuto do magistério costuma prever",
+      "Pontos que merecem atenção na vida funcional do professor",
+      "Que documentos ajudam a entender a sua situação",
+      "Perguntas frequentes"
+    ],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Terço de férias e recesso escolar | Pimenta Queiroz",
+      "description": "Terço constitucional de férias e recesso escolar para professores."
+    }
+  },
+  {
+    "id": "2",
+    "slug": "licenca-tratamento-saude",
+    "title": "Licença para tratamento de saúde",
+    "pageTitle": "Licença para tratamento de saúde",
+    "summary": "Questões funcionais relacionadas ao afastamento para cuidar da saúde.",
+    "icon": "health",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Licença para tratamento de saúde | Pimenta Queiroz",
+      "description": "Questões funcionais relacionadas ao afastamento para cuidar da saúde."
+    }
+  },
+  {
+    "id": "3",
+    "slug": "defesa-pad",
+    "title": "Processo administrativo disciplinar",
+    "pageTitle": "Processo administrativo disciplinar",
+    "summary": "Defesa e acompanhamento em processo administrativo disciplinar (PAD).",
+    "icon": "document",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Processo administrativo disciplinar | Pimenta Queiroz",
+      "description": "Defesa e acompanhamento em processo administrativo disciplinar (PAD)."
+    }
+  },
+  {
+    "id": "4",
+    "slug": "adicional-insalubridade",
+    "title": "Adicional de insalubridade",
+    "pageTitle": "Adicional de insalubridade",
+    "summary": "Análise das condições de trabalho e da legislação aplicável.",
+    "icon": "shield",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Adicional de insalubridade | Pimenta Queiroz",
+      "description": "Análise das condições de trabalho e da legislação aplicável."
+    }
+  },
+  {
+    "id": "5",
+    "slug": "desvio-funcao",
+    "title": "Desvio de função",
+    "pageTitle": "Desvio de função",
+    "summary": "Questões sobre as atribuições do cargo e as atividades exercidas.",
+    "icon": "people",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Desvio de função | Pimenta Queiroz",
+      "description": "Questões sobre as atribuições do cargo e as atividades exercidas."
+    }
+  },
+  {
+    "id": "6",
+    "slug": "concursos-publicos",
+    "title": "Concursos públicos e editais",
+    "pageTitle": "Concursos públicos e editais",
+    "summary": "Análise de editais e questões relativas às etapas dos concursos.",
+    "icon": "exam",
+    "enabled": true,
+    "published": false,
+    "reviewed": false,
+    "featured": false,
+    "introduction": "As questões funcionais exigem a leitura da legislação aplicável e dos documentos de cada servidor. O conteúdo detalhado desta área aguarda revisão jurídica.",
+    "blocks": [],
+    "plannedSections": [],
+    "faq": [],
+    "disclaimer": "Este conteúdo tem finalidade informativa e não substitui a análise jurídica do caso concreto. Cada situação exige análise individualizada da legislação, dos documentos funcionais e das particularidades do caso.",
+    "seo": {
+      "title": "Concursos públicos e editais | Pimenta Queiroz",
+      "description": "Análise de editais e questões relativas às etapas dos concursos."
+    }
+  }
+]

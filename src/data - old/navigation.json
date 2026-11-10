@@ -1,0 +1,28 @@
+[
+  {
+    "label": "Início",
+    "to": "/",
+    "enabled": true
+  },
+  {
+    "label": "Para servidores",
+    "to": "/#areas",
+    "dropdown": true,
+    "enabled": true
+  },
+  {
+    "label": "O escritório",
+    "to": "/o-escritorio",
+    "enabled": true
+  },
+  {
+    "label": "Conteúdo",
+    "to": "/conteudo",
+    "enabled": true
+  },
+  {
+    "label": "Contato",
+    "to": "/contato",
+    "enabled": true
+  }
+]
