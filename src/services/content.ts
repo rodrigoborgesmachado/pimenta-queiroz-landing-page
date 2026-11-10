@@ -18,7 +18,12 @@ export const articles = {
   ...articlesData,
   items: articlesData.items as Article[],
 }
-export const team = { ...teamData, members: teamData.members as Professional[] }
+const members: Professional[] = teamData.members.map((member) => ({
+  ...member,
+  biography: member.bio,
+  education: member.education ?? [],
+}))
+export const team = { ...teamData, members }
 export const privacy = { ...privacyData, blocks: privacyData.blocks as Block[] }
 export const visibleAreas = areas.filter((area) => area.enabled)
 export const publishedArticles = articles.items.filter(
